@@ -1,0 +1,21 @@
+pa4
+
+List.c - File containing the list ADT.
+
+List.h - Header file for the list ADT.
+
+ListTest.c - File containing test harness for the List ADT.
+
+Matrix.c - File containing the matrix ADT.
+
+Matrix.h - Header file for the matrix ADT.
+
+MatrixTest.c - File containing test harness for the matrix ADT.
+
+Sparse.c - File containing code that given a correctly formated
+infile will compute the matrix opperations prepared and display results
+to desired outfile.
+
+Makefile - File used for compiling necessary code for executables.
+
+README - The file containing the desciptors for the files of this directory.

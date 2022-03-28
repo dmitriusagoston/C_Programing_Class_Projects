@@ -1,0 +1,13 @@
+pa1
+
+Lex.c - File containing code that lexographically sorts the lines from a given infile and prints it to a desired outfile.
+
+List.c - File containing the list ADT.
+
+List.h - Header file for the list ADT.
+
+ListClient.c - File containing client side tests for the functionality of the list ADT.
+
+Makefile - File used for compiling necessary code for Lex.c and List.c to function as well as testing them both.
+
+README - The file containing the desciptors for the files of this directory.

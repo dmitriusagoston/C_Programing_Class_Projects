@@ -1,0 +1,15 @@
+pa7
+
+NOTE: When code was run with grading script, Order tests 3-5 failed, but when run localy, no difference was found between output files using "diff" command.
+
+Dictionary.cpp - File containing the Dictionary ADT.
+
+Dictionary.h - Header file for the Dictionary ADT.
+
+DictionaryTest.cpp - File containing test harness for the Dictionary ADT.
+
+Order.cpp - File that creates a dictionary given a file of words.
+
+Makefile - File used for compiling necessary code for executables.
+
+README - The file containing the desciptors for the files of this directory.

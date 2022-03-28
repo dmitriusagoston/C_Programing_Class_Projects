@@ -1,0 +1,19 @@
+pa6
+
+List.cpp - File containing the list ADT.
+
+List.h - Header file for the list ADT.
+
+BigInteger.cpp - File containing the Big Integer ADT.
+
+BigInteger.h - Header file for the Big Integer ADT.
+
+ListTest.cpp - File containing test harness for the List ADT.
+
+BigInteger.cpp - File containing test harness for the BigInteger ADT.
+
+Arithmetic.cpp - File that performs the arithmetic for Big Integers.
+
+Makefile - File used for compiling necessary code for executables.
+
+README - The file containing the desciptors for the files of this directory.

@@ -1,0 +1,13 @@
+pa5
+
+List.cpp - File containing the list ADT.
+
+List.h - Header file for the list ADT.
+
+ListTest.cpp - File containing test harness for the List ADT.
+
+Shuffle.cpp - File that performs the perfect shuffle.
+
+Makefile - File used for compiling necessary code for executables.
+
+README - The file containing the desciptors for the files of this directory.

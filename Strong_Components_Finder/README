@@ -1,0 +1,22 @@
+pa3
+
+List.c - File containing the list ADT.
+
+List.h - Header file for the list ADT.
+
+Graph.c - File containing the graph ADT.
+
+Graph.h - Header file for the graph ADT.
+
+GraphTest.c - File containing test harness for the graph ADT.
+
+FindComponents.c - File containing code that given a correctly formated
+infile will find the strongly connect components of the graph.
+
+Makefile - File used for compiling necessary code for executables.
+
+README - The file containing the desciptors for the files of this directory.
+
+Note: The function visit() uses time as an input output variable from DFS() since time is defined locally in DFS().
+pa2 was used in pa3 by reusing the list ADT along with the Graph ADT, though the Graph ADT had unecessary
+functions removed and the necessary ones for DFS() implemented.
